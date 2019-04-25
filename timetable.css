@@ -1,0 +1,27 @@
+.div1{ width: 100%; height: 90%;
+    background-size: 100% 100%;
+     background-image: url("timer-sand.jpg");      
+                background-repeat: no-repeat;
+}
+.span1{
+    font-size: 20px;
+       letter-spacing: 11px;
+    }
+ .div2{
+           position: absolute; top: 13% ; left: 10%;
+            font-weight: bolder;
+            color:firebrick;
+        }
+a:hover{color:aqua}
+a{text-decoration: none; color: Maroon }
+
+table{ position: absolute; top: 25%; left: 10%; width: 80%;
+background-color: rgba(250,200, 250, 0.5);height: 50%}
+ table,th,td{
+            border:1px solid black;
+            border-collapse:collapse ;
+            padding: 15px ;     
+}
+caption{
+    font-size: 25px;
+    color:Cornsilk ;}
